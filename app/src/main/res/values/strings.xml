@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebServicesRestful</string>
+    <string name="loading_reports">Loading reports</string>
+    <string name="create_sample_post">Create sample post</string>
+    <string name="results_placeholder">Results will appear here</string>
+    <string name="loaded_items">Successfully loaded %1$d items.</string>
+    <string name="server_error">Server error code: %1$d</string>
+    <string name="network_failure">Network failure. Please check your internet connection.</string>
+    <string name="created_entity">Created entity with ID: %1$d</string>
+    <string name="post_server_error">POST failed. Server code: %1$d</string>
+    <string name="post_network_failure">POST failed. Check your internet connection.</string>
+</resources>
